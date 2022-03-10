@@ -1,4 +1,4 @@
-package two_pointer;
+package pattern2_two_pointer;
 
 import java.util.*;
 
